@@ -1,0 +1,18 @@
+git --version   "Gitni versiyasini ko'rsatadi"
+    cd manzil   "Dasturizni qayerga yaratmoqchi bo'lsangiz o'sha papkaga bossayiz bo'ladi
+mkdir -papka ismi  "papka yaratadi"
+git config --global user,name "Muhammadali"  "uzizni ismingizni yozish kerak"
+git config --global user,email "01212wqdwd@121" "uzizni emailni yozish kerak"
+git status "Gitni statusini ko'rsatadi(fayllar qaysi xolatda turganini kursatadi"
+git init "Siz tanlagan papkaga repozitoriya yaratadi(gitni ishga tushiradi va ko'rinmas papka yaratadi"
+ls "Papkani ichida nechta Fayl borligini kurstib beradi"
+git add index.html "Vaqtinchalik saxranit qilib turadi Tanlangan fayllarni"
+git add -all "Vaqtinchalik saxranit qilib quyadi Xamma fayllarni
+git commit -m "" "Sizning qilgan ishlaringizni saxranit qilib quyadi.
+git branch  "Local repozitoriyada nechta versiya ochilganini ko'rsatadi.
+git branch images "Versiya yaratadi va unga o'tadi"
+git checkout -b error "Versiya yaratida va unga o'tadi".
+git merge images "Versiyalarni bir biriga ulaydi".
+git branch -d error "Versiyani udalit qiladi".
+42665727
+568252
